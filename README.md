@@ -2,7 +2,7 @@
 LaTeX Template for Ph.D. thesis at Karlsruhe Institute of Technology.
 
 # How To
-*If* everything works out of the box, you should be able to simply compile the file 'Dissertation.tex'.
+*If* everything works out of the box, you should be able to simply compile the file `Dissertation.tex`.
 
 
 # Credit
