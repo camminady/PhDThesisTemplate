@@ -4,7 +4,7 @@ LaTeX Template for Ph.D. thesis at Karlsruhe Institute of Technology.
 # How To
 *If* everything works out of the box, you should be able to simply compile the file `Dissertation.tex`.
 
-However, there are **many** packages included and some of these are porbably redundant. There are also several config files, so setting the document up the first time might take some effort. 
+However, there are **many** packages included and some of these are probably redundant. There are also several config files, so setting the document up the first time might take some effort. 
 
 # Credit
 Initial LaTeX files are taken from [here](https://sdqweb.ipd.kit.edu/wiki/Dokumentvorlagen).
